@@ -1,0 +1,11 @@
+{
+    "appName": "infact",
+    "tagLine": "We love facts, hope you love them too",
+    "appDescription": "An app that shows you random, fun facts",
+    "authorImage": "https://media-exp1.licdn.com/dms/image/C5103AQHQr-PYcoltFg/profile-displayphoto-shrink_200_200/0/1551635385198?e=1614211200&v=beta&t=vmM01zSs_p3cRF1-1uUXLmtvOi2j-fePQf2KQTa7BoY",
+    "factsScreenTitle": "Facts for you",
+    "social": {
+        "linkedin": "https://www.linkedin.com/in/sudershan-singh-9a874512a/"
+    },
+    "baseURL": "http://192.168.43.27:3000"
+}
